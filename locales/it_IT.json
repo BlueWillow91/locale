@@ -2675,15 +2675,15 @@
       },
       "editor": {
         "phone": {
-          "enter-phone-number": "Enter phone number",
-          "verify-phone-number": "Verify phone number",
-          "label": "Enter your phone number",
-          "desc": "A ten-digit code will be sent via SMS to verify your phone number.",
-          "code-not-received": "Didn’t receive a code via SMS? <0>Resend it</0>.",
-          "resending-code": "Resending verification code…",
-          "code-label": "Enter the verification code sent to your phone.",
-          "back": "Back",
-          "verify": "Verify"
+          "enter-phone-number": "Inserisci numero di telefono",
+          "verify-phone-number": "Verifica numero di telefono",
+          "label": "Inserisci il tuo numero di telefono",
+          "desc": "Riceverai un SMS contenente un codice di 10 cifre per verificare il tuo numero di telefono.",
+          "code-not-received": "Non hai ricevuto l'SMS? <0>Invia di nuovo</0>.",
+          "resending-code": "Rinvio codice di verifica in corso…",
+          "code-label": "Inserisci il codice di verifica che ti abbiamo spedito sul telefono.",
+          "back": "Indietro",
+          "verify": "Verifica"
         },
         "national-id": {
           "upload-label": "Upload two <0>separate photographs</0> of your national ID, one of the front and one of the back.",
@@ -3423,30 +3423,30 @@
       }
     },
     "profile": {
-      "title": "Profilo",
-      "header": "Impostazioni profilo",
-      "desc-1": "Qui sotto puoi modificare le impostazioni del tuo profilo.",
+      "title": "Profile",
+      "header": "Profile settings",
+      "desc-1": "You can edit your profile settings below.",
       "desc-2": "",
       "cards": {
         "your-details": {
-          "label": "Dati personali",
-          "legal-name": "Nome legale",
-          "update-name": "Voglio aggiornare il mio nome",
-          "update-country": "Voglio aggiornare il mio paese di residenza",
-          "gender": "Genere",
-          "male": "Maschio",
-          "female": "Femmina",
-          "other": "Altro",
-          "country-of-residence": "Paese di residenza"
+          "label": "Personal details",
+          "legal-name": "Legal name",
+          "update-name": "I want to update my name",
+          "update-country": "I want to update my country of residence",
+          "gender": "Gender",
+          "male": "Male",
+          "female": "Female",
+          "other": "Other",
+          "country-of-residence": "Country of residence"
         },
         "account-settings": {
-          "label": "Impostazioni account",
-          "email-address": "Indirizzo email",
-          "update-email": "Cambia indirizzo email",
+          "label": "Account settings",
+          "email-address": "Email address",
+          "update-email": "Change email address",
           "password": "Password",
-          "update-password": "Cambia password",
-          "two-factor": "Ti consigliamo di abilitare l'autenticazione a due fattori nella pagina <0>Sicurezza</0>.",
-          "two-factor-enable": "L'autenticazione a due fattori può essere disabilita alla pagina <0>Sicurezza</0>."
+          "update-password": "Change password",
+          "two-factor": "We recommend you to enable two-factor authentication in <0>Security</0>.",
+          "two-factor-enable": "Two-factor authentication can be disabled in <0>Security</0>."
         }
       },
       "modals": {
@@ -3973,19 +3973,19 @@
           "error": "Invalid phone number for {{country}}"
         },
         "wallets": {
-          "label": "Portafogli",
-          "delete": "Elimina",
+          "label": "Wallets",
+          "delete": "Delete",
           "address": {
-            "placeholder": "Indirizzo portafoglio"
+            "placeholder": "Wallet address"
           },
           "name": {
-            "placeholder": "Nome portafoglio"
+            "placeholder": "Wallet name"
           },
-          "add": "Aggiungi un altro"
+          "add": "Add another"
         },
         "validation": {
-          "address": "Per favore inserisci un indirizzo {{blockchain}} valido.",
-          "unique-address": "Hai già un altro contatto con questo indirizzo."
+          "address": "Please enter a valid {{blockchain}} address.",
+          "unique-address": "You already have another contact with this wallet address."
         }
       }
     }
